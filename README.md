@@ -1,6 +1,10 @@
-# Helicopter Landing Sites Identification in Earth Engine
+<h1 align="center">Helicopter Landing Sites Identification in Earth Engine</h1>
 
+<p align="justify">
 Earth Engine code for performing Helicopter Landing Zone Analysis in remote wild areas. It is a simple go/no-go solution using the intersection of vegetation, slope, and surface area.
+</p>
+
+<p align="center"><img src="heli.jpg" alt="Rescue helicopter landing" width="300"></p>
 
 ## References
 
